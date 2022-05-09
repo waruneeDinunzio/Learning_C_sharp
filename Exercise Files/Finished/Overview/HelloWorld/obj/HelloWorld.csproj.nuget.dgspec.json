@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/treehouseruser/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj": {}
+  },
+  "projects": {
+    "/Users/treehouseruser/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/treehouseruser/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "/Users/treehouseruser/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj",
+        "packagesPath": "/Users/treehouseruser/.nuget/packages/",
+        "outputPath": "/Users/treehouseruser/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/treehouseruser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
