@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/treehouseruser/.dotnet/store/|arch|/|tfm|",
+      "/Users/treehouseruser/.nuget/packages"
+    ]
+  }
+}
